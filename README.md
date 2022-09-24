@@ -1,13 +1,11 @@
 # Triunfo de Pégasos
 
-![pt](https://user-images.githubusercontent.com/112108655/192115971-93a25bb7-3b86-4ba0-b48c-471334c706d1.png)
-
-
 
 <h3>Projeto desenvolvido na "imersãoDev" da Alura, cujo objetivo foi a criação do jogo "Super Trunfo".</h3>
-HOSPEDAGEM DO SITE: https://gskars.github.io/triunfo-de-p-gasos/
 
- # Tecnologias :
+![pt](https://user-images.githubusercontent.com/112108655/192115971-93a25bb7-3b86-4ba0-b48c-471334c706d1.png)
+
+# Tecnologias :
  <uL>
  <li>HTML</li>
  <li>CSS</li>
