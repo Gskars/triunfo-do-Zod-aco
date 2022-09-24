@@ -1,5 +1,6 @@
 # Triunfo de Pégasos
 
+![pt](https://user-images.githubusercontent.com/112108655/192115971-93a25bb7-3b86-4ba0-b48c-471334c706d1.png)
 
 
 
