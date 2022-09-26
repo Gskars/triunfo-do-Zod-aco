@@ -13,7 +13,8 @@
  <li> JAVASCRIPT</li>
 </ul>
 # Contatos:
-- Email: gscardazi@hotmail.com
+<ul>
+-<li> Email: gscardazi@hotmail.com </li>
 - Linkedin: https://www.linkedin.com/in/guilherme-scardazi-67875a1b8/
 
 
