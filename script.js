@@ -20,15 +20,15 @@ var carta3 = {
   };
   
   var carta2 = {
-    nome: "Ikki",
-    imagem:
-      "http://img4.wikia.nocookie.net/__cb20140124220334/saintseiya/es/images/5/56/Fenix_Ikki_Hades_Saga.png",
-    atributos: {
-      ataque: 10,
-      defesa: 10,
-      magia: 15
-    }
-  };
+  nome: "Ikki de Fênix",
+  imagem:
+    "https://pm1.narvii.com/6607/a09c216e0ff6f0e6752093e857f741d3f13469ee_hq.jpg",
+  atributos: {
+    ataque: 900,
+    defesa: 500,
+    magia: 700
+  }
+};
   
   var cartaMaquina;
   var cartaJogador;
